@@ -1,7 +1,7 @@
-- 👋 Hi, I’m  Federico Lerias, vivo en Argentina
-- 👀 I’m interested in la tecnologia, el progreso y el conocimiento en gral.
-- 🌱 I’m currently learning Desarrollo Web Full Stack
-- 💞️ I’m looking to collaborate on el area programatica empresarial
+- 👋 Hi, I’m  Federico Leiras, I live in Argentina
+- 👀 I’m interested in technology in general, acquire the knowledge to understand it and be able to use it at higher levels
+- 🌱 I’m currently learning Full Stack Web Development
+- 💞️ I’m looking to collaborate on the business program area
 - 📫 How to reach me fleiras18@gmail.com
 
 <!---
