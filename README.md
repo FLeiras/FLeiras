@@ -30,5 +30,5 @@
 </br>
 </br>
 <div>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonatanAlcaraz&show_icons=true&theme=dark&locale=en" alt="JonatanAlcaraz" /></p>
+<p align="center"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200402205611/What-is-PERN-Stack.png" alt="FedericoLeiras" /></p>
 </br></div></br>
