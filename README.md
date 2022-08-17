@@ -1,9 +1,9 @@
-# Hi, I’m Federico 👨🏻‍💻
+# Hola, soy Federico 👨🏻‍💻
 
 <img src="./img/banerr2.png"/>
 
 <hr>
-<h4 align="center">🧑I am a <b>Full Stack Developer passionate about the world of programming</b>, I like to be able to create solutions that make a difference, I am always willing to continue training in the area that is required. I attach great importance to my ability to work as a team, build trust and learn from others. </h4>
+<h4 align="center">🧑Soy un <b>Desarrollador Full Stack apasionado por el mundo de la programación</b>, me gusta poder crear soluciones que marquen la diferencia, siempre estoy dispuesto a seguir capacitándome en el área que se requiera. Doy gran importancia a mi capacidad para trabajar en equipo, generar confianza y aprender de los demás.</h4>
 <hr>
 <div align="center">
 <h2> Linkedin:</h2>
@@ -12,9 +12,12 @@
 <div></div>
 <p align="center">
 <a href="https://www.linkedin.com/in/fede-leiras" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="30" width="40" /></a>
+<a href="https://www.instagram.com/fedeleiras/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  height="30" width="40" /></a>
+<a href="mailto:fleiras18@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg"  height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=1166067670" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg"  height="30" width="40" /></a>
 </p>
 <p align="center">
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Idiomas y herramientas:</h2>
 <p align="center">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a>
