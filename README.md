@@ -36,5 +36,5 @@
 <p align="center"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200402205611/What-is-PERN-Stack.png" alt="FedericoLeiras" /></p>
 </br></div></br>
 
-<img src="./img/LandingPage.png"/>
+<img src="./img/landing-countries-app.png"/>
 <img src="./img/Proyecto Final.png"/>
