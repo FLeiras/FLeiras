@@ -2,19 +2,15 @@
   <img src="./assets/profile-banner.svg" alt="Federico Leiras — Frontend Developer" width="100%" />
 </p>
 
-<p align="center">
-  <strong>Frontend Developer · React · Vue · Flutter · SaaS · Web & Mobile</strong>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fede-leiras">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:fleiras18@gmail.com">Email</a>
   &nbsp;·&nbsp;
-  <code>Portfolio · Próximamente</code>
+  <a href="https://federicoleiras.netlify.app/"><strong>Portfolio</strong></a>
 </p>
 
-<!-- Portfolio: cuando esté publicado, reemplazar el texto anterior por un enlace a la URL definitiva. -->
 
 ## Sobre mí
 
@@ -59,7 +55,7 @@ Me interesa especialmente construir productos **mantenibles, rápidos, responsiv
       <h3>💬 WLA Chat</h3>
       <p>Aplicación mobile multiplataforma para el ecosistema WLA, orientada a usuarios autenticados, personajes y comunicación de la comunidad.</p>
       <p><strong>Flutter · Dart · REST · Real-time</strong></p>
-      <p><em>El caso de estudio estará disponible en mi portfolio.</em></p>
+      <p><a href="https://federicoleiras.netlify.app/#proyectos"><strong>Ver caso de estudio →</strong></a></p>
     </td>
   </tr>
   <tr>
@@ -109,7 +105,6 @@ Si querés conversar sobre **desarrollo frontend, productos digitales, proyectos
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/fede-leiras"><strong>LinkedIn</strong></a>
   &nbsp;·&nbsp;
-  <code>Portfolio · Próximamente</code>
+  <a href="https://federicoleiras.netlify.app/"><strong>Portfolio</strong></a>
 </p>
 
-<!-- Portfolio deploy pendiente. Agregar aquí la URL definitiva cuando esté disponible. -->
