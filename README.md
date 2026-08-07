@@ -1,43 +1,115 @@
-# Hola, soy Federico 👨🏻‍💻
-
-<img src="./img/banerr2.png"/>
-
-<hr>
-<h4 align="center">🧑Soy un <b>Desarrollador Full Stack apasionado por el mundo de la programación</b>, me gusta poder crear soluciones que marquen la diferencia, siempre estoy dispuesto a seguir capacitándome en el área que se requiera. Doy gran importancia a mi capacidad para trabajar en equipo, generar confianza y aprender de los demás.</h4>
-<hr>
-<div align="center">
-<h2> Linkedin:</h2>
-
-</div>
-<div></div>
 <p align="center">
-<a href="https://www.linkedin.com/in/fede-leiras" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="30" width="40" /></a>
-<a href="https://www.instagram.com/fedeleiras/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  height="30" width="40" /></a>
-<a href="mailto:fleiras18@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg"  height="30" width="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=1166067670" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg"  height="30" width="40" /></a>
+  <img src="./assets/profile-banner.svg" alt="Federico Leiras — Frontend Developer" width="100%" />
 </p>
-<p align="center">
-<h2 align="center">Idiomas y herramientas:</h2>
-<p align="center">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank"> <img src="./img/vuejs.png" alt="Vue.js" width="55" height="40"/> </a>
-<a href="https://flutter.dev/brand" target="_blank"> <img src="https://mdevelopers.com/storage/0_flutterheader_0c3ac92d.png" alt="Flutter" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/es" target="_blank"> <img src="./img/mongodb.png" alt="MongoDb" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
-</br>
-</br>
-<div>
-<p align="center"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200402205611/What-is-PERN-Stack.png" alt="FedericoLeiras" /></p>
-</br></div></br>
 
-<img src="./img/landing-countries-app.png"/>
-<img src="./img/Proyecto Final.png"/>
+<p align="center">
+  <strong>Frontend Developer · React · Vue · Flutter · SaaS · Web & Mobile</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fede-leiras">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:fleiras18@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <code>Portfolio · Próximamente</code>
+</p>
+
+<!-- Portfolio: cuando esté publicado, reemplazar el texto anterior por un enlace a la URL definitiva. -->
+
+## Sobre mí
+
+Soy **Frontend Developer con más de 3 años de experiencia profesional**, construyendo productos SaaS y aplicaciones web/mobile utilizadas en entornos productivos.
+
+Trabajo principalmente con **React, Vue y Flutter**. Tengo experiencia desarrollando flujos de autenticación, dashboards administrativos, gestión de usuarios y roles, integraciones con APIs REST, WebSockets y funcionalidades en tiempo real. También cuento con experiencia backend con **Node.js, Express y PostgreSQL**, lo que me permite entender el producto más allá de la interfaz.
+
+A lo largo de mi recorrido profesional evolucioné de **Fullstack Developer Trainee → Frontend Developer JR → Frontend Developer SSR** en EXO S.A., participando también en definición de arquitectura frontend, estimaciones técnicas y desarrollo de MVPs desde cero hasta producción.
+
+Actualmente desarrollo proyectos freelance para web y mobile, involucrándome desde la necesidad inicial hasta la implementación y puesta en producción.
+
+Me interesa especialmente construir productos **mantenibles, rápidos, responsive y simples de usar**, cuidando arquitectura, performance, calidad de código y experiencia de usuario.
+
+- 💼 Última experiencia en relación de dependencia: **Frontend Developer SSR — EXO S.A.**
+- 🚀 Actualmente: **desarrollo freelance de productos web y mobile**
+- 🎓 Ingeniería en Informática — **Universidad Nacional Arturo Jauretche**
+- 📍 Buenos Aires, Argentina
+
+## Stack tecnológico
+
+| Área | Tecnologías |
+| --- | --- |
+| **Frontend** | React · Vue 3 · JavaScript · TypeScript · HTML · CSS |
+| **Mobile** | Flutter · Dart |
+| **State Management** | Redux · Pinia · Riverpod |
+| **Backend & Data** | Node.js · Express · PostgreSQL |
+| **Integraciones** | REST APIs · WebSockets · Real-time features |
+| **Herramientas** | Git · Docker · CI/CD |
+| **Forma de trabajo** | Scrum · Kanban · Testing · Documentación |
+
+## Proyectos destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚔️ WoW Latinoamérica</h3>
+      <p>Plataforma web para una comunidad latinoamericana de World of Warcraft. Desarrollo frontend e integración con la API existente desarrollada en Laravel.</p>
+      <p><strong>React · JavaScript · Laravel API</strong></p>
+      <p><a href="https://www.wowlatinoamerica.com/"><strong>Ver proyecto →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 WLA Chat</h3>
+      <p>Aplicación mobile multiplataforma para el ecosistema WLA, orientada a usuarios autenticados, personajes y comunicación de la comunidad.</p>
+      <p><strong>Flutter · Dart · REST · Real-time</strong></p>
+      <p><em>El caso de estudio estará disponible en mi portfolio.</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✨ Soy Luz</h3>
+      <p>Sitio web freelance responsive, diseñado para comunicar servicios con una experiencia clara, cálida y accesible.</p>
+      <p><strong>Frontend · Responsive UI · Freelance</strong></p>
+      <p><a href="https://soy-luz.netlify.app/"><strong>Ver proyecto →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧘 Ale Pilates Mat</h3>
+      <p>Landing page moderna y responsive enfocada en presentar clases de Pilates y facilitar el contacto con potenciales alumnos.</p>
+      <p><strong>React · Tailwind CSS · Netlify</strong></p>
+      <p><a href="https://alepilatesmat.netlify.app/"><strong>Ver proyecto →</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+## Experiencia en producto
+
+Mi trabajo no se limita a maquetar interfaces. A lo largo de mi experiencia participé en distintas etapas del desarrollo de producto:
+
+- **Arquitectura frontend** y organización de aplicaciones mantenibles.
+- Desarrollo de **interfaces responsive** a partir de diseños y requerimientos de producto.
+- **Autenticación, usuarios y roles** en plataformas multiusuario.
+- Integración de **APIs REST y WebSockets** para funcionalidades en tiempo real.
+- Desarrollo de **dashboards administrativos** y herramientas de gestión.
+- **Performance, UX y mejora continua** sobre productos en producción.
+- Desarrollo de **MVPs desde cero** hasta su salida a producción.
+
+## GitHub
+
+Uso GitHub como parte de mi trabajo diario y como espacio para mantener proyectos personales y freelance. No todos los productos en los que trabajé profesionalmente son públicos, por lo que mi actividad visible representa solo una parte de mi experiencia.
+
+<p align="center">
+  <a href="https://github.com/FLeiras?tab=repositories"><strong>Explorar mis repositorios</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/FLeiras?tab=overview"><strong>Ver actividad</strong></a>
+</p>
+
+## Contacto
+
+Si querés conversar sobre **desarrollo frontend, productos digitales, proyectos freelance u oportunidades profesionales**, podés contactarme por:
+
+<p align="center">
+  <a href="mailto:fleiras18@gmail.com"><strong>Email</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/fede-leiras"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <code>Portfolio · Próximamente</code>
+</p>
+
+<!-- Portfolio deploy pendiente. Agregar aquí la URL definitiva cuando esté disponible. -->
